@@ -1,2 +1,0 @@
-clone-test
-hello
