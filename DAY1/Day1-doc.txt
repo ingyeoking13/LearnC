@@ -1,0 +1,6 @@
+GitHub-Day1
+
+Problem number(BOJ)
+-17244 : 아 맞다 우산
+-14577 : 일기예보
+-10167 : 금광
