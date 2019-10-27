@@ -2,6 +2,21 @@ AlgorithmStudy
 ==============
 C언어를배우자알고리즘스터디_발표요약본
 
+필독 - Repository 에 contribute 하는 방법
+---
+- 저(gaelim)의 레파토리의 주소를 clone 합니다.
+- 자신의 branch를 생성합니다.
+- 새롭게 생성한 branch에 commit 할 자료들을 stage에 add 합니다.
+- 현재 stage에 add된 자료들을 commit 합니다.
+- 그 후 repository에 push 합니다.
+- 깃허브 웹사이트에 들어가 pull-request를 요청합니다.
+- 마지막으로 merge를 하면 작업이 완료가 됩니다.
+
+- 깃에 대한 더 추가적인 정보를 얻고 싶다면 
+초보몽키 : https://wayhome25.github.io/git/2017/03/27/git-00-intro/
+GitBook : https://git-scm.com/book/ko/v2
+를 참고 하시면 도움이 많이 될 것 같습니다.
+
 운영 
 ----
 - 'C언어를 배우자' 카페서부터 파생되어 2017년에 개설되어 현재 약 2년 넘게 운영이 되고 있습니다.
