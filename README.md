@@ -13,8 +13,8 @@ C언어를배우자알고리즘스터디_발표요약본
 - 마지막으로 merge를 하면 작업이 완료가 됩니다.
 
 - 깃에 대한 더 추가적인 정보를 얻고 싶다면 
-초보몽키 : https://wayhome25.github.io/git/2017/03/27/git-00-intro/
-GitBook : https://git-scm.com/book/ko/v2
+- 초보몽키 : https://wayhome25.github.io/git/2017/03/27/git-00-intro/
+- GitBook : https://git-scm.com/book/ko/v2
 를 참고 하시면 도움이 많이 될 것 같습니다.
 
 운영 
