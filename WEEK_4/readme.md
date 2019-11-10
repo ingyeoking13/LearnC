@@ -121,10 +121,10 @@ int main()
 
 따라서 어떤 루프에도 속하지 않는 간선의 수가 k이고, 루프에 속한 간선이 각 루프에 a1, a2, a3, ... 개 라면, 정답은 2^k * (2^a1 - 2) * (2^a2 - 2) * (2^a3 - 2) * ...이다.
 
-Cycle detection하는 방법
-1. 아직 방문되지 않은 아무 정점에서부터 DFS를 시작한다.
-2. DFS가 현재 정점을 방문하지 않았다면, 현재 정점을 현재 depth에서 방문했다는 것을 기록하고, 연결된 간선들의 다른 정점들을 방문한다. (이미 사용한 간선은 제외)
-3. DFS가 현재 정점을 방문했었다면, 현재 depth와 현재 정점에 기록되어 있는 depth의 차이만큼이 cycle에 속한 정점의 수이다.
+Cycle detection하는 방법  
+1. 아직 방문되지 않은 아무 정점에서부터 DFS를 시작한다.  
+2. DFS가 현재 정점을 방문하지 않았다면, 현재 정점을 현재 depth에서 방문했다는 것을 기록하고, 연결된 간선들의 다른 정점들을 방문한다. (이미 사용한 간선은 제외)  
+3. DFS가 현재 정점을 방문했었다면, 현재 depth와 현재 정점에 기록되어 있는 depth의 차이만큼이 cycle에 속한 정점의 수이다.  
 
 [source_code](https://codeforces.com/contest/711/submission/64470967)  
 
@@ -135,7 +135,7 @@ Cycle detection하는 방법
 
 **아이디어**
 
-`ccs`를 활용한 해결법. 
+`ccs`를 활용한 해결법. 그 외로 `bfs/dfs` 를 활용한 탐색법도 있음.   
 비슷한 문제들  
-[문제링크](https://www.acmicpc.net/problem/15559)  
-[문제링크](https://www.acmicpc.net/problem/15886)  
+[내 선물을 받아줘](https://www.acmicpc.net/problem/15559)  
+[내 선물을 받아줘2](https://www.acmicpc.net/problem/15886)  
