@@ -115,14 +115,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1086_dbfldkfdbgmlcpp.cpp" />
+    <ClCompile Include="1086_dbfldkfdbgml.cpp" />
     <ClCompile Include="1086_gaelim.cpp" />
     <ClCompile Include="1257D_gaelim.cpp" />
+    <ClCompile Include="13016_eovh1942.c" />
     <ClCompile Include="17835_djm.cpp" />
     <ClCompile Include="17835_eovh1962.cpp" />
     <ClCompile Include="17835_gaelim.cpp" />
     <ClCompile Include="17835_gumdung.cpp" />
     <ClCompile Include="2098_dbfldkfdbgml.cpp" />
+    <ClCompile Include="2482_dbfldkfdbgml.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
