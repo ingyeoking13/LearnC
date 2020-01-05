@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1086_dbfldkfdbgmlcpp.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1257D_gaelim.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -37,6 +34,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="17835_djm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2482_dbfldkfdbgml.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1086_dbfldkfdbgml.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13016_eovh1942.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
