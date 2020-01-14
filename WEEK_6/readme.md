@@ -5,7 +5,7 @@
 ### eovh1962
 
 [문제링크](https://www.acmicpc.net/problem/16437)  
-[정답소스](Study/16437_eovh1962.c)
+[정답소스](../Study/16437_eovh1962.c)
 
 소스에서 realloc과 관련된 이야기  
 c++ vector push_back 을 n 개 하였을 때 시간복잡도가 O(n)인 이유  
@@ -18,14 +18,15 @@ c++ vector push_back 을 n 개 하였을 때 시간복잡도가 O(n)인 이유
 소프트콘 E 번 문제
 
 [문제링크](https://www.acmicpc.net/problem/15983)  
-[문제해설지](https://docs.google.com/presentation/d/1h6-FNqXeA-c8_ol_2p9SBcW1kse5LOvyyw9wXnGbwbk/edit?usp=sharing)
+[문제해설지](https://docs.google.com/presentation/d/1h6-FNqXeA-c8_ol_2p9SBcW1kse5LOvyyw9wXnGbwbk/edit?usp=sharing)  
+[정답소스](../Study/15983_djm03178.cc)  
 
 ## cf Hello 2020 C. New Year and Permutation
 
 ### djm03178
 
 [문제링크](https://codeforces.com/contest/1284/problem/C)  
-[문제소스](Study/codeforces_Hello2020D.cc)  
+[정답소스](../Study/codeforces_Hello2020D_gaelim.cc)  
 
 **문제해설**
 
