@@ -24,7 +24,8 @@ c++ vector push_back 을 n 개 하였을 때 시간복잡도가 O(n)인 이유
 
 ### djm03178
 
-[문제링크](https://codeforces.com/contest/1284/problem/C)
+[문제링크](https://codeforces.com/contest/1284/problem/C)  
+[문제소스](Study/codeforces_Hello2020D.cc)  
 
 **문제해설**
 
