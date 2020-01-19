@@ -45,5 +45,20 @@
     <ClCompile Include="13016_eovh1942.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\ProDesk\Desktop\가사검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2325_djm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2325_eovh.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14866_djm_단절점_forest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="study.txt" />
   </ItemGroup>
 </Project>
