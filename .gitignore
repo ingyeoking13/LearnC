@@ -434,3 +434,6 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/c,c++,visualstudio,visualstudiocode
+
+# 0.gitignore를 통합의 편리를 위해 ignore합니다.
+/Study/0.cpp
