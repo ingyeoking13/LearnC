@@ -57,6 +57,18 @@
     <ClCompile Include="14866_djm_단절점_forest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17349_dbfldkfdbgml.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6156_dbfldkfdbgml.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17349_gumdung.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="study.txt" />
