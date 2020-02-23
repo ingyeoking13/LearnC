@@ -69,6 +69,18 @@
     <ClCompile Include="17349_gumdung.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="외벽점검_dbfldkfdbgml.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3392_leeym95.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16912_djm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="contest_0519_problem_e.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="study.txt" />
